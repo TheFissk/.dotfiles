@@ -22,3 +22,5 @@
 - Docker
 - KiCad
 - Tailscale
+- Otti
+- pgAdmin4
